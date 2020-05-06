@@ -1,2 +1,3 @@
 # hello-world
-hello-world, I've joined GitHub
+
+New to GitHub, but hope to make some fun Arduino projects & contributions.
